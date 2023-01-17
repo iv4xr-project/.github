@@ -11,6 +11,8 @@ Here you can find various repositories related the iv4xr-project. Overall, the p
   * Sample subjects:
      * [Lab Recruits Game](https://github.com/iv4xr-project/labrecruits). A demo of the use iv4xr to target this game is kept in [this project](https://github.com/iv4xr-project/iv4xrDemo).
 
+![iv4xr architecture](https://github.com/iv4xr-project/iv4xr-framework/raw/main/docs/iv4xr_architecture1.png)
+
 
 #### Acknowledgement
 
