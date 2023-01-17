@@ -1,9 +1,17 @@
 # iv4xr PROJECT
 
-[this README is being worked on]
+Here you can find various repositories related the iv4xr-project. Overall, the project goal is to provide a toolkit for developers and testers with AI and agent-based tools for automated testing of traditional and Extended Reality (XR) systems. The information below provide a roadmap to various repositories.
 
-The _iv4xr Framework_ is an agent-based framework for automated testing highly interactive systems such as computer games or computer simulators. Its cool features include intelligent agents, player experience testing, and integration with other tools such as Model based Testing (MBT) and TESTAR.
+  * [Project website with more background about the project.](https://iv4xr-toolkit.eu/)
+  * [iv4xr-framework repository, packaging main-tools developed in the project](https://github.com/iv4xr-project/iv4xr-framework)
+  * [The framework-core: its test-agent system](https://github.com/iv4xr-project/aplib)
+  * [iv4xr model-based testing tool](https://github.com/iv4xr-project/iv4xr-mbt)
+  * [iv4xr exploratory testing tool](https://github.com/iv4xr-project/TESTAR_iv4xr)
+  * [reinforcement learning based testing](https://github.com/iv4xr-project/iv4xr-rlbt)
+  * Sample subjects:
+     * [Lab Recruits Game](https://github.com/iv4xr-project/labrecruits). A demo of the use iv4xr to target this game is kept in [this project](https://github.com/iv4xr-project/iv4xrDemo).
 
-Although above we mention "games", iv4xr itself is generic enough to target other types of interactive systems, even services or Java classes as long as these entities can be viewed as interactable systems.
 
-Iv4xr is a _framework_ because it is not a tool that can immediately do its work out of the box. This is not possible due to the unstandardized domains of its targets; e.g. there is no uniform way to interface with computer games, and there is no uniform representation of their states either. So before it can be used, iv4xr Framework requires an interface to be built that would allow it to control and observe the target system under test (SUT).
+#### Acknowledgement
+
+The project is  the result of the H2020 RIA iv4XR project funded by the European Commission under grant number 856716.
